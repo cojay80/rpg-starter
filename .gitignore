@@ -1,0 +1,14 @@
+# Godot 4 import cache
+.godot/
+# (Godot 3 호환)
+.import/
+# 임시/빌드 산출물
+export/
+*.tmp
+# OS/Editor 잡파일
+.DS_Store
+Thumbs.db
+# 대용량 산출물은 LFS 고려
+*.wav
+*.ogg
+*.mp4
