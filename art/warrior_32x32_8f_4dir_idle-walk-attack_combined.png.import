@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://25kkh7apc3ta"
-path="res://.godot/imported/warrior_32x32_8f_4dir_idle-walk-attack_combined.png-7a3c7752a0d5209afefaea9d18133da2.ctex"
+uid="uid://batt3ghqiah3a"
+path="res://.godot/imported/warrior_32x32_8f_4dir_idle-walk-attack_combined.png-0d1bf9be847658eca1c0ba96e287863a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/warrior_32x32_8f_4dir_idle-walk-attack_combined.png"
-dest_files=["res://.godot/imported/warrior_32x32_8f_4dir_idle-walk-attack_combined.png-7a3c7752a0d5209afefaea9d18133da2.ctex"]
+source_file="res://warrior_32x32_8f_4dir_idle-walk-attack_combined.png"
+dest_files=["res://.godot/imported/warrior_32x32_8f_4dir_idle-walk-attack_combined.png-0d1bf9be847658eca1c0ba96e287863a.ctex"]
 
 [params]
 
