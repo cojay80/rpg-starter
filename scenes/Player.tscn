@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cw8rve1scnflt"]
 
-[ext_resource type="SpriteFrames" path="res://art/warrior_spriteframes_margin1_spacing1.tres" id="1"]
+[ext_resource type="SpriteFrames" uid="uid://bjhl2ehkr781h" path="res://art/warrior_spriteframes_margin1_spacing1.tres" id="1"]
 
 [node name="PlayerRoot" type="Node2D"]
 
